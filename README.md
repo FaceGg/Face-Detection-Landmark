@@ -1,6 +1,6 @@
 # FaceDetector-Landmark
 
-Requirement: 
+Requirement:
 
 caffe & python2 & numpy & opencv 
 
