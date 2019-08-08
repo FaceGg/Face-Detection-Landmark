@@ -2,10 +2,15 @@
 
 Requirement: 
 
-0.caffe 
-1.python2 
-2.numpy 
-3.opencv 
+caffe 
+
+python2 
+
+numpy 
+
+opencv 
+
+
 
 
 how to run ? 
