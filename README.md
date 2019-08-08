@@ -1,12 +1,12 @@
 # FaceDetector-Landmark
 
-##Requirement:
+## Requirement:
 
 caffe & python2 & numpy & opencv 
 
 
 
 
-##how to run ? 
+## how to run ? 
 
 python2 demo.py 
