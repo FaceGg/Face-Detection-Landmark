@@ -9,4 +9,4 @@ caffe & python2 & numpy & opencv
 
 ## how to run ? 
 
-python2 demo.py 
+`python2 demo.py` 
