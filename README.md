@@ -3,11 +3,8 @@
 Requirement: 
 
 caffe 
-
 python2 
-
 numpy 
-
 opencv 
 
 
