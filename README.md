@@ -1,6 +1,7 @@
 # FaceDetector-Landmark
 
 Requirement: 
+
 0.caffe 
 1.python2 
 2.numpy 
@@ -8,4 +9,5 @@ Requirement:
 
 
 how to run ? 
+
 python2 demo.py 
