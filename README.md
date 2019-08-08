@@ -2,10 +2,7 @@
 
 Requirement: 
 
-caffe 
-python2 
-numpy 
-opencv 
+caffe & python2 & numpy & opencv 
 
 
 
